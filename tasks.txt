@@ -1,0 +1,24 @@
+Feature assignments:
+- Security: auth.js
+  - Login [Clarissa]
+  - PIN Change [Clarissa] 
+  - Account creation [Clarissa]
+  - Authentication system [Ackhava]
+- Financial: finance.js
+  - Withdrawal & Deposit [ ]
+  - Transfer & Inquiry [Legend]
+- UI:
+  - Structure [ ]
+  - Visual Design [Legend]
+- Storage: storage.js [Ronica & Keysha]
+  - Session
+    - Add new session for a user [Legend]
+    - Query session [ ]
+    - Revoke a session [ ]
+  - Balances
+    - Transfer funds [Legend]                                                                                                   
+    - Check funds [Ronica & Keysha]
+  - PIN
+    - Validate data [Ronica & Keysha]
+    - Store new PIN [Ronica & Keysha]
+- Routing [Ackhava]

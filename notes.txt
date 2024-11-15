@@ -1,0 +1,10 @@
+auth = ecurity
+finance = data
+index = Main
+
+
+Server-Side:
+
+Client-Side:
+    UI HTML
+:
