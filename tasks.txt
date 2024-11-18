@@ -16,7 +16,7 @@ Feature assignments:
     - Query session [ ]
     - Revoke a session [ ]
   - Balances
-    - Transfer funds [Legend]                                                                                                   
+    - Update funds [Legend]                                                                                                   
     - Check funds [Ronica & Keysha]
   - PIN
     - Validate data [Ronica & Keysha]
