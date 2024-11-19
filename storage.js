@@ -26,3 +26,13 @@ function check_pin(username,pin){
 function set_pin(username){
     // ganti pin username
 }
+
+module.exports = {
+    new_session,
+    get_session_username,
+    revoke_session,
+    get_funds,
+    set_funds,
+    check_pin,
+    set_pin
+};

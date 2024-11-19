@@ -7,7 +7,7 @@ Feature assignments:
 - Financial: finance.js
   - Withdrawal & Deposit [ ]
   - Transfer & Inquiry [Legend]
-- UI:
+- UI (/templates):
   - Structure [ ]
   - Visual Design [Legend]
 - Storage: storage.js [Ronica & Keysha]
