@@ -1,5 +1,11 @@
+const storage = require("./storage");
+
 function login(username, pin){
     // return sesion code
+}
+
+function is_valid(username, session){
+    return storage.get_session_username(session)===username;
 }
 
 function change_pin(username, oldPin, newPin){
